@@ -18,14 +18,14 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-box-sps",
+			"tag": "com-demo-gauge-sps",
 			"url": "https://HAI-YANG1.github.io/hep.sac/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
+			"tag": "com-demo-gauge-bps",
 			"url": "https://HAI-YANG1.github.io/hep.sac/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
